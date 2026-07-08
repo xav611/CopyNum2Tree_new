@@ -107,3 +107,8 @@ Requirements:
         ]
     }
 }
+```
+
+Improvements:
+- Added centromere regions to Absolute plots (compatible only with hg19 version of genome)
+- Added phylogic matching colors to plots
